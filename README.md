@@ -1,4 +1,4 @@
-# Anon - An eCommerce Website
+# Oynx - An eCommerce Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/anon-ecommerce-website)
 ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/anon-ecommerce-website?style=social)
@@ -10,8 +10,8 @@ Anon is a fully responsive ecommerce website, maximum compatiblities in all mobi
 
 ## Demo
 
-![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Anon Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+![Oynx Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
+![Oynx Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
 
@@ -19,9 +19,9 @@ Before you begin, ensure you have met the following requirements:
 
 * [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
 
-## Installing Anon
+## Installing Oynx
 
-To install **Anon**, follow these steps:
+To install **Oynx**, follow these steps:
 
 Linux and macOS:
 
